@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 # Pig-Game
 Pig Game Design using JavaScript
+=======
+>>>>>>> d01a940 (Initial commit)
 !!PIG GAME!!
 About Game: In this game, User Interface (UI) contains user/player that can do three things, they are as follows:
 
